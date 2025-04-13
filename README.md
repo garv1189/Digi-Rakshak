@@ -1,9 +1,9 @@
 
 ---
 
-# Rakshak: Multi-Platform Social Media Analytics Dashboard(📄 [Download News Analysis Approach PDF](./hackathon.pdf))
+# Digi-Rakshak: Multi-Platform Social Media Analytics Dashboard(📄 [Download News Analysis Approach PDF](./hackathon.pdf))
 
-Rakshak is an integrated analytics platform designed to collect, analyze, and visualize data from multiple social media sources and news outlets. The platform focuses primarily on Twitter data analysis, while also incorporating Reddit and news data to provide a comprehensive view of public sentiment, trending topics, and political bias. Rakshak is built to serve researchers, analysts, and developers interested in harnessing the power of social media and news for data-driven insights.
+Digi-Rakshak is an integrated analytics platform designed to collect, analyze, and visualize data from multiple social media sources and news outlets. The platform focuses primarily on Twitter data analysis, while also incorporating Reddit and news data to provide a comprehensive view of public sentiment, trending topics, and political bias. Rakshak is built to serve researchers, analysts, and developers interested in harnessing the power of social media and news for data-driven insights.
 
 ---
 
@@ -65,7 +65,7 @@ https://drive.google.com/drive/folders/1-MxTBKAqpKGU_-CItFsLAs-h8wKpYVMC
 
 ## Introduction
 
-Rakshak is a multi-faceted analytics dashboard that merges data from Twitter, Reddit, and news sources. By combining robust backend data processing with an interactive, modern frontend, the platform enables users to:
+Digi-Rakshak is a multi-faceted analytics dashboard that merges data from Twitter, Reddit, and news sources. By combining robust backend data processing with an interactive, modern frontend, the platform enables users to:
 
 - Monitor daily trends and track sentiment evolution.
 - Analyze political bias and term co-occurrence within social media content.
@@ -76,7 +76,7 @@ Rakshak is a multi-faceted analytics dashboard that merges data from Twitter, Re
 
 ## Motivation
 
-In today’s fast-paced digital landscape, information flows continuously from diverse sources. Traditional analytics platforms often focus on a single data channel, limiting insights. Rakshak addresses this gap by:
+In today’s fast-paced digital landscape, information flows continuously from diverse sources. Traditional analytics platforms often focus on a single data channel, limiting insights. Digi-Rakshak addresses this gap by:
 - **Unifying Data Sources:** Integrating Twitter, Reddit, and news data for cross-platform insights.
 - **Enhancing Decision Making:** Providing real-time analytics for informed strategic decisions.
 - **Empowering Research:** Offering detailed, reproducible analysis for academic and commercial research.
@@ -98,7 +98,7 @@ In today’s fast-paced digital landscape, information flows continuously from d
 
 ## Architecture
 
-Rakshak is organized into two primary modules:
+Digi-Rakshak is organized into two primary modules:
 
 ### 1. Twitter Analysis Module
 - **Data Sources:**  
@@ -319,7 +319,7 @@ G5_RajatMasanagi-main/
 
 ## Data Processing Pipeline
 
-Rakshak employs a modular pipeline for data processing:
+Digi-Rakshak employs a modular pipeline for data processing:
 
 1. **Data Collection:**
    - **Twitter:**  
@@ -379,7 +379,7 @@ Rakshak employs a modular pipeline for data processing:
 
 ## Dashboard Functionality
 
-The Rakshak dashboard is built to provide an engaging, interactive user experience:
+The Digi-Rakshak dashboard is built to provide an engaging, interactive user experience:
 
 - **Real-Time Data:**  
   Automatically updates visualizations with the latest data.
@@ -414,7 +414,7 @@ The Rakshak dashboard is built to provide an engaging, interactive user experien
 
 ## Customization and Extension
 
-Rakshak’s modular design allows for easy customization:
+Digi-Rakshak’s modular design allows for easy customization:
 
 - **Extend Analytical Modules:**  
   Add new Python scripts (e.g., additional `bc*.py` or `fn*.py` files) to integrate advanced analytics.
@@ -457,7 +457,7 @@ Planned enhancements for Rakshak include:
 
 ## License and Acknowledgments
 
-Rakshak is licensed under the [MIT License](LICENSE).  
+Digi-Rakshak is licensed under the [MIT License](LICENSE).  
 Special thanks to:
 - **Open-Source Libraries:**  
   Tom Select, Vis Network, and other libraries that power our visualizations.
